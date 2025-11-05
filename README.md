@@ -1,0 +1,1 @@
+I created a input form to get basic background information on someone. I felt like this would be an interesting project because there seems to be a lot that goes into creating a form. There are a lot of different processes and options to practice. I felt like this project helped with building my knowledge of how html and css work together as well.
